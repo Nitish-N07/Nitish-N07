@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center">👋 Hello! I'm Nitish.</h2>
 
 ### About Me
 
@@ -12,9 +12,9 @@
 
 ### Technologies & Tools
 
-**Languages**: C/C++, Java, Python, Solidity, JavaScript, HTML, CSS
-
-**Frameworks**: PyTorch, React, Node.js
+  **Languages**: C/C++, Java, Python, Solidity, JavaScript, HTML, CSS
+  
+  **Frameworks**: PyTorch, React, Node.js
 
 Feel free to check out my repositories and star your favorites! ⭐
 
