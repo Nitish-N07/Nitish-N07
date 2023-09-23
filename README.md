@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-#### About Me
+### About Me
 
 👨‍🎓 Currently pursuing my Bachelor's in Computer Science and Engineering from the Indian Institute of Information Technology.
 
@@ -10,9 +10,10 @@
 
 🤝 Open to collaborations on intriguing AI/ML projects. The idea of working together to solve real-world problems excites me!
 
-#### Technologies & Tools
+### Technologies & Tools
 
 **Languages**: C/C++, Java, Python, Solidity, JavaScript, HTML, CSS
+
 **Frameworks**: PyTorch, React, Node.js
 
 Feel free to check out my repositories and star your favorites! ⭐
