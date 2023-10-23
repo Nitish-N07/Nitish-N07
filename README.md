@@ -6,7 +6,6 @@
 
 ⚙️ Immersed in the world of AI/ML, with a particular focus on deep learning projects. I enjoy unraveling complex problems using frameworks like PyTorch, especially in areas like Convolutional Neural Networks (CNN) and sequence models.
 
-🖥️ I have a background in full-stack development and computer graphics projects which has honed my problem-solving skills.
 
 ### Technologies & Tools
 
